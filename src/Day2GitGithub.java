@@ -16,6 +16,8 @@ public class Day2GitGithub {
     Not: git log--oneline Commitlerimdeki yani versiyondaki durumları gosterir
     
     Not: GitHub
+    
+    Not: GitHub
 
      */
 
