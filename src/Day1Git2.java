@@ -3,3 +3,4 @@ public class Day1Git2 {
         System.out.println("Git 2. Class");
     }
 }
+
